@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1,
+    "name": "Fresh Food",
+    "slug": "fresh-food",
+    "description": "Fresh and perishable food items",
+    "subcategories": [
+      {
+        "id": 101,
+        "name": "Fish And Seafood",
+        "slug": "fish-and-seafood",
+        "description": "Fresh fish and seafood products"
+      },
+      {
+        "id": 102,
+        "name": "Processed Meat",
+        "slug": "processed-meat",
+        "description": "Processed and preserved meat products"
+      },
+      {
+        "id": 103,
+        "name": "Vegetables",
+        "slug": "vegetables",
+        "description": "Fresh vegetables"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Frozen Food",
+    "slug": "frozen-food",
+    "description": "Frozen food items",
+    "subcategories": [
+      {
+        "id": 201,
+        "name": "Frozen Mochi",
+        "slug": "frozen-mochi",
+        "description": "Frozen mochi desserts"
+      },
+      {
+        "id": 202,
+        "name": "Frozen Seafood",
+        "slug": "frozen-seafood",
+        "description": "Frozen fish and seafood"
+      },
+      {
+        "id": 203,
+        "name": "Frozen Meat",
+        "slug": "frozen-meat",
+        "description": "Frozen meat products"
+      },
+      {
+        "id": 204,
+        "name": "Other Frozen Goods",
+        "slug": "other-frozen-goods",
+        "description": "Miscellaneous frozen items"
+      },
+      {
+        "id": 205,
+        "name": "Frozen Ready To Cook",
+        "slug": "frozen-ready-to-cook",
+        "description": "Pre-prepared frozen meals"
+      },
+      {
+        "id": 206,
+        "name": "Ice Cream",
+        "slug": "ice-cream",
+        "description": "Frozen ice cream products"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Salty Grocery",
+    "slug": "salty-grocery",
+    "description": "Salty packaged food items",
+    "subcategories": [
+      {
+        "id": 301,
+        "name": "Baking Essentials",
+        "slug": "baking-essentials",
+        "description": "Ingredients for baking"
+      },
+      {
+        "id": 302,
+        "name": "Canned Food",
+        "slug": "canned-food",
+        "description": "Canned food items"
+      },
+      {
+        "id": 303,
+        "name": "Butter & Cheese",
+        "slug": "butter-and-cheese",
+        "description": "Butter and cheese products"
+      },
+      {
+        "id": 304,
+        "name": "Dried Beans & Vegetables",
+        "slug": "dried-beans-and-vegetables",
+        "description": "Dried beans and vegetables"
+      },
+      {
+        "id": 305,
+        "name": "Oil And Vinegar",
+        "slug": "oil-and-vinegar",
+        "description": "Cooking oils and vinegars"
+      },
+      {
+        "id": 306,
+        "name": "Pasta And Noodles",
+        "slug": "pasta-and-noodles",
+        "description": "Pasta and noodle products"
+      },
+      {
+        "id": 307,
+        "name": "Ready To Cook",
+        "slug": "ready-to-cook",
+        "description": "Pre-prepared meals ready to cook"
+      },
+      {
+        "id": 308,
+        "name": "Sauce And Condiments",
+        "slug": "sauce-and-condiments",
+        "description": "Sauces and condiments for cooking"
+      },
+      {
+        "id": 309,
+        "name": "Seasoning",
+        "slug": "seasoning",
+        "description": "Spices and seasonings"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sweet Grocery",
+    "slug": "sweet-grocery",
+    "description": "Sweet packaged food items",
+    "subcategories": [
+      {
+        "id": 401,
+        "name": "Biscuits & Cakes",
+        "slug": "biscuits-and-cakes",
+        "description": "Biscuits and cakes"
+      },
+      {
+        "id": 402,
+        "name": "Canned Fruits",
+        "slug": "canned-fruits",
+        "description": "Canned fruit products"
+      },
+      {
+        "id": 403,
+        "name": "Chocolate & Confectionery",
+        "slug": "chocolate-and-confectionery",
+        "description": "Chocolates and candies"
+      },
+      {
+        "id": 404,
+        "name": "Milk",
+        "slug": "milk",
+        "description": "Milk products"
+      },
+      {
+        "id": 405,
+        "name": "Processed Dairy Products",
+        "slug": "processed-dairy-products",
+        "description": "Processed dairy items"
+      },
+      {
+        "id": 406,
+        "name": "Snacks, Nuts And Dried Fruits",
+        "slug": "snacks-nuts-and-dried-fruits",
+        "description": "Snacks, nuts, and dried fruits"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Beverages",
+    "slug": "beverages",
+    "description": "Various drinks",
+    "subcategories": [
+      {
+        "id": 501,
+        "name": "Beer",
+        "slug": "beer",
+        "description": "Alcoholic beer"
+      },
+      {
+        "id": 502,
+        "name": "Sake",
+        "slug": "sake",
+        "description": "Japanese rice wine"
+      },
+      {
+        "id": 503,
+        "name": "Umeshu",
+        "slug": "umeshu",
+        "description": "Japanese plum wine"
+      },
+      {
+        "id": 504,
+        "name": "Champagne",
+        "slug": "champagne",
+        "description": "Sparkling wine"
+      },
+      {
+        "id": 505,
+        "name": "Red Wine",
+        "slug": "red-wine",
+        "description": "Red wine varieties"
+      },
+      {
+        "id": 506,
+        "name": "Rose Wine",
+        "slug": "rose-wine",
+        "description": "Rose wine varieties"
+      },
+      {
+        "id": 507,
+        "name": "Spirits",
+        "slug": "spirits",
+        "description": "Hard liquors"
+      },
+      {
+        "id": 508,
+        "name": "White Wine",
+        "slug": "white-wine",
+        "description": "White wine varieties"
+      },
+      {
+        "id": 509,
+        "name": "Soft Drinks",
+        "slug": "soft-drinks",
+        "description": "Non-alcoholic carbonated drinks"
+      },
+      {
+        "id": 510,
+        "name": "Juices",
+        "slug": "juices",
+        "description": "Fruit juices"
+      },
+      {
+        "id": 511,
+        "name": "Coffee",
+        "slug": "coffee",
+        "description": "Coffee drinks"
+      },
+      {
+        "id": 512,
+        "name": "Japanese Tea",
+        "slug": "japanese-tea",
+        "description": "Traditional Japanese teas"
+      }
+    ]
+  }
+]

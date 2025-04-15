@@ -1,562 +1,332 @@
 [
   {
     "id": 1,
-    "name": "Nho Xanh Hello",
-    "price": 150000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Bạch tuộc sốt wasabi (tako wasabi)",
+    "slug": "bach-tuoc-sot-wasabi-tako-wasabi",
+    "image": "https://mastererp.mylifecompany.com//Resources/Images/Items/28ce2d37-5fc8-49ef-8a99-218c4a5b69c302012025043704.jpg",
+    "price": "702000",
+    "unit": "kg",
+    "status": "in-stock",
+    "categorySlug": "fish-and-seafood"
   },
   {
     "id": 2,
-    "name": "Dưa Lưới Đài Loan Cao Cấp",
-    "price": 200000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Cá hồi Nauy nguyên con tươi (Salmon)",
+    "slug": "ca-hoi-nauy-nguyen-con-tuo-salmon",
+    "image": "https://mastererp.mylifecompany.com//Resources/Images/Items/C%C3%A1%20H%E1%BB%93i%20Nguy%C3%AAn%20con17122024050223.png",
+    "price": "618000",
+    "unit": "kg",
+    "status": "in-stock",
+    "categorySlug": "fish-and-seafood"
   },
   {
     "id": 3,
-    "name": "Táo Envy S28 - S30",
-    "price": 100000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Cá hồi Nauy tươi Fillet (Salmon)",
+    "slug": "ca-hoi-nauy-tuo-fillet-salmon",
+    "image": "https://mastererp.mylifecompany.com//Resources/Images/Items/SP000902-PD00052-WEB_Ca-Hoi-Phi-Le-Phan-Than17122024035448.png",
+    "price": "948000",
+    "unit": "kg",
+    "status": "in-stock",
+    "categorySlug": "fish-and-seafood"
   },
   {
     "id": 4,
-    "name": "Quýt Úc Califresh size 48",
-    "price": 80000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Đầu cá hồi (Salmon)",
+    "slug": "dau-ca-hoi-salmon",
+    "image": "https://mastererp.mylifecompany.com//Resources/Images/Items/YSEXTF00728112023114821_S17122024032008.jpg",
+    "price": "98000",
+    "unit": "kg",
+    "status": "in-stock",
+    "categorySlug": "fish-and-seafood"
   },
   {
     "id": 5,
-    "name": "Cam Ai Cập MAFA S40",
-    "price": 60000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Lườn Cá hồi Nauy tươi (Salmon)",
+    "slug": "luon-ca-hoi-nauy-tuo-salmon",
+    "image": "https://mastererp.mylifecompany.com//Resources/Images/Items/L%C6%B0%E1%BB%9Dn%20C%C3%A1%20h%E1%BB%93i%20Nauy%20t%C6%B0%C6%A1i%20(Salmon)17122024041523.jpg",
+    "price": "178000",
+    "unit": "kg",
+    "status": "in-stock",
+    "categorySlug": "fish-and-seafood"
   },
   {
     "id": 6,
-    "name": "Táo Rockit New Zealand",
-    "price": 120000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Trứng cá tuyết tẩm gia vị Mentaiko {YAMAYA}-80g",
+    "slug": "trung-ca-tuyet-tam-gia-vi-mentaiko-yamaya-80g",
+    "image": "https://mastererp.mylifecompany.com//Resources/Images/Items/L%C6%B0%E1%BB%9Dn%20C%C3%A1%20h%E1%BB%93i%20Nauy%20t%C6%B0%C6%A1i%20(Salmon)17122024041523.jpg",
+    "price": "128000",
+    "unit": "box",
+    "status": "in-stock",
+    "categorySlug": "fish-and-seafood"
   },
   {
     "id": 7,
-    "name": "Lê Hàn",
-    "price": 90000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Xương Cá hồi",
+    "slug": "xuong-ca-hoi",
+    "image": "https://mastererp.mylifecompany.com//Resources/Images/Items/X%C6%B0%C6%A1ng%20c%C3%A1%20H%E1%BB%93i17122024034743.jpg",
+    "price": "58000",
+    "unit": "kg",
+    "status": "in-stock",
+    "categorySlug": "fish-and-seafood"
   },
   {
     "id": 8,
-    "name": "Quýt Úc APH S36",
-    "price": 70000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Đùi sau Serrano cắt lát (Serrano ham sliced) - 50g",
+    "slug": "dui-sau-serrano-cat-lat-serrano-ham-sliced-50g",
+    "image": "https://mastererp.mylifecompany.com//Resources/Images/Items/%C4%90%C3%B9i%20sau%20Serrano%20c%E1%BA%AFt%20l%C3%A1t%20(Serrano%20ham%20sliced)%20-%2050g30122024114107.jpg",
+    "price": "108000",
+    "unit": "khay",
+    "status": "in-stock",
+    "categorySlug": "processed-meat"
   },
   {
     "id": 9,
-    "name": "Nho Xanh Sweet Globe Úc",
-    "price": 180000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Rong nho VN",
+    "slug": "rong-nho-vn",
+    "image": "https://mastererp.mylifecompany.com//Resources/Images/Items/YSSAL00620112023023658_S30122024114346.jpg",
+    "price": "218000",
+    "unit": "kg",
+    "status": "in-stock",
+    "categorySlug": "vegetables"
   },
   {
     "id": 10,
-    "name": "Nho Đen Úc",
-    "price": 200000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Bánh SMJ mochi Chocolate -Tuyết Đại Phúc Vị Socola",
+    "slug": "banh-smj-mochi-chocolate-tuyet-dai-phuc-vi-socola",
+    "image": "https://mastererp.mylifecompany.com//Resources/Images/Items/Mochi%20v%E1%BB%8B%20choco19122024071946.jpg",
+    "price": "127000",
+    "unit": "box",
+    "status": "in-stock",
+    "categorySlug": "frozen-mochi"
   },
   {
     "id": 11,
-    "name": "Táo Dazzle New Zealand S90",
-    "price": 130000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Bánh SMJ mochi trà xanh - Tuyết Đại Phúc",
+    "slug": "banh-smj-mochi-tra-xanh-tuyet-dai-phuc",
+    "image": "https://mastererp.mylifecompany.com//Resources/Images/Items/Mochi%20v%E1%BB%8B%20choco19122024071946.jpg",
+    "price": "127000",
+    "unit": "box",
+    "status": "in-stock",
+    "categorySlug": "frozen-mochi"
   },
   {
     "id": 12,
-    "name": "Dưa Đế Đặc Mật",
-    "price": 50000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Cá Hồi Nauy Fillet Tươi",
+    "slug": "ca-hoi-nauy-fillet-tuoi",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 250000,
+    "unit": "kg",
+    "status": "in-stock",
+    "categorySlug": "fish-and-seafood"
   },
   {
     "id": 13,
-    "name": "Cherry Mỹ",
-    "price": 300000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Thăn Ngoại Bò Hokubee Úc",
+    "slug": "than-ngoai-bo-hokubee-uc",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 450000,
+    "unit": "kg",
+    "status": "in-stock",
+    "categorySlug": "processed-meat"
   },
   {
     "id": 14,
-    "name": "Xoài Úc",
-    "price": 100000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Mochi Dâu Tằm Đông Lạnh",
+    "slug": "mochi-dau-tam-dong-lanh",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 120000,
+    "unit": "box",
+    "status": "in-stock",
+    "categorySlug": "frozen-mochi"
   },
   {
     "id": 15,
-    "name": "Dứa Hawaii",
-    "price": 80000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Tôm Sú Đông Lạnh",
+    "slug": "tom-su-dong-lanh",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 300000,
+    "unit": "kg",
+    "status": "in-stock",
+    "categorySlug": "frozen-seafood"
   },
   {
     "id": 16,
-    "name": "Bưởi Navel Mỹ",
-    "price": 120000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Sườn Bò Mỹ Đông Lạnh",
+    "slug": "suon-bo-my-dong-lanh",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 380000,
+    "unit": "kg",
+    "status": "in-stock",
+    "categorySlug": "frozen-meat"
   },
   {
     "id": 17,
-    "name": "Vải Thái Lan",
-    "price": 250000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Kem Dâu Tây Häagen-Dazs",
+    "slug": "kem-dau-tay-haagen-dazs",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 150000,
+    "unit": "box",
+    "status": "in-stock",
+    "categorySlug": "ice-cream"
   },
   {
     "id": 18,
-    "name": "Sầu Riêng Việt Nam",
-    "price": 60000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Cá Ngừ Đóng Hộp",
+    "slug": "ca-ngu-dong-hop",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 45000,
+    "unit": "can",
+    "status": "in-stock",
+    "categorySlug": "canned-food"
   },
   {
     "id": 19,
-    "name": "Mận Đà Lạt",
-    "price": 70000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Bơ Lạt President",
+    "slug": "bo-lat-president",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 85000,
+    "unit": "pack",
+    "status": "in-stock",
+    "categorySlug": "butter-and-cheese"
   },
   {
     "id": 20,
-    "name": "Ổi Tây Ban Nha",
-    "price": 150000,
-    "image": "https://placehold.co/600x400",
-    "category": "Trái cây"
+    "name": "Dầu Ô Liu Extra Virgin",
+    "slug": "dau-o-liu-extra-virgin",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 180000,
+    "unit": "bottle",
+    "status": "in-stock",
+    "categorySlug": "oil-and-vinegar"
   },
   {
     "id": 21,
-    "name": "[Striploin] Thăn Ngoại Bò Hokubee Úc",
-    "price": 500000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
+    "name": "Mì Udon Sanuki",
+    "slug": "mi-udon-sanuki",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 60000,
+    "unit": "pack",
+    "status": "in-stock",
+    "categorySlug": "pasta-and-noodles"
   },
   {
     "id": 22,
-    "name": "[Ribeye] Đầu Thăn Ngoại Bò Hokubee Úc",
-    "price": 600000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
+    "name": "Nước Tương Kikkoman",
+    "slug": "nuoc-tuong-kikkoman",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 55000,
+    "unit": "bottle",
+    "status": "in-stock",
+    "categorySlug": "sauce-and-condiments"
   },
   {
     "id": 23,
-    "name": "[Shank] Bắp Bò Mỹ Cắt Lát",
-    "price": 300000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
+    "name": "Hạt Nêm Umami Ajinomoto",
+    "slug": "hat-nem-umami-ajinomoto",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 35000,
+    "unit": "pack",
+    "status": "in-stock",
+    "categorySlug": "seasoning"
   },
   {
     "id": 24,
-    "name": "[Top Blade] Lõi Nạc Vai Bò Cắt Steak",
-    "price": 400000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
+    "name": "Bánh Quy Bơ LU",
+    "slug": "banh-quy-bo-lu",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 70000,
+    "unit": "box",
+    "status": "in-stock",
+    "categorySlug": "biscuits-and-cakes"
   },
   {
     "id": 25,
-    "name": "[Short Plate] Ba Chỉ Bò Mỹ Cuộn",
-    "price": 450000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
+    "name": "Trái Cây Đóng Hộp Dole",
+    "slug": "trai-cay-dong-hop-dole",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 40000,
+    "unit": "can",
+    "status": "in-stock",
+    "categorySlug": "canned-fruits"
   },
   {
     "id": 26,
-    "name": "Diềm Thăn (Ib Serecto Penceta)",
-    "price": 700000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
+    "name": "Kẹo Socola KitKat Matcha",
+    "slug": "keo-socola-kitkat-matcha",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 30000,
+    "unit": "pack",
+    "status": "in-stock",
+    "categorySlug": "chocolate-and-confectionery"
   },
   {
     "id": 27,
-    "name": "Xương sườn (IB Spare Ribs)",
-    "price": 350000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
+    "name": "Sữa Tươi Meiji",
+    "slug": "sua-tuoi-meiji",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 25000,
+    "unit": "bottle",
+    "status": "in-stock",
+    "categorySlug": "milk"
   },
   {
     "id": 28,
-    "name": "Thịt bụng ba rọi cắt mỡ (IB Defatted Belly)",
-    "price": 550000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
+    "name": "Hạt Điều Rang Muối",
+    "slug": "hat-dieu-rang-muoi",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 90000,
+    "unit": "pack",
+    "status": "in-stock",
+    "categorySlug": "snacks-nuts-and-dried-fruits"
   },
   {
     "id": 29,
-    "name": "Thịt cốt lếch (IB French Rack)",
-    "price": 800000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
+    "name": "Bia Asahi",
+    "slug": "bia-asahi",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 35000,
+    "unit": "can",
+    "status": "in-stock",
+    "categorySlug": "beer"
   },
   {
     "id": 30,
-    "name": "IB Spare Ribs Xương sườn 500gr/khay",
-    "price": 250000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
+    "name": "Rượu Sake Hakkaisan",
+    "slug": "ruou-sake-hakkaisan",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 450000,
+    "unit": "bottle",
+    "status": "in-stock",
+    "categorySlug": "sake"
   },
   {
     "id": 31,
-    "name": "Ba rọi cuộn (Iberico roll Belly)",
-    "price": 600000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
+    "name": "Nước Ép Cam Florida",
+    "slug": "nuoc-ep-cam-florida",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 40000,
+    "unit": "bottle",
+    "status": "in-stock",
+    "categorySlug": "juices"
   },
   {
     "id": 32,
-    "name": "Sườn Non Bò Úc",
-    "price": 400000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
+    "name": "Trà Xanh Matcha Ito En",
+    "slug": "tra-xanh-matcha-ito-en",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
+    "price": 50000,
+    "unit": "bottle",
+    "status": "in-stock",
+    "categorySlug": "japanese-tea"
   },
   {
     "id": 33,
-    "name": "Nạc Vai Bò Mỹ",
-    "price": 350000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
-  },
-  {
-    "id": 34,
-    "name": "Thịt Ba Chỉ Heo Tây Ban Nha",
-    "price": 250000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
-  },
-  {
-    "id": 35,
-    "name": "Cánh Gà Mỹ",
-    "price": 100000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
-  },
-  {
-    "id": 36,
-    "name": "Đùi Gà Pháp",
-    "price": 150000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
-  },
-  {
-    "id": 37,
-    "name": "Ba Chỉ Heo Iberico",
-    "price": 700000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
-  },
-  {
-    "id": 38,
-    "name": "Sườn Heo Mỹ",
-    "price": 200000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
-  },
-  {
-    "id": 39,
-    "name": "Loin Heo Úc",
-    "price": 300000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
-  },
-  {
-    "id": 40,
-    "name": "Gà Nguyên Con Brazil",
-    "price": 300000,
-    "image": "https://placehold.co/600x400",
-    "category": "Bò, Heo & Gà"
-  },
-  {
-    "id": 41,
-    "name": "Cá Hồi Nauy Fillet Tươi",
-    "price": 300000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 42,
-    "name": "Tôm Hùm Alaska",
-    "price": 1000000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 43,
-    "name": "Cá Ngừ Vây Vàng",
-    "price": 500000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 44,
-    "name": "Mực UnaGi Nhật Bản",
-    "price": 400000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 45,
-    "name": "Tôm Tiger Úc",
-    "price": 250000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 46,
-    "name": "Cá Hồi Hokkaido",
-    "price": 350000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 47,
-    "name": "Bạch Tuộc Tươi",
-    "price": 200000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 48,
-    "name": "Cá Basa Việt Nam",
-    "price": 100000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 49,
-    "name": "Ghẹ Xanh Việt Nam",
-    "price": 150000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 50,
-    "name": "Cá Mú Nhật Bản",
-    "price": 600000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 51,
-    "name": "Tôm Hùm Đỏ Canada",
-    "price": 800000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 52,
-    "name": "Cá Thu Biển",
-    "price": 120000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 53,
-    "name": "Mực Ống Khô",
-    "price": 80000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 54,
-    "name": "Cá Ngừ Đại Dương",
-    "price": 450000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 55,
-    "name": "Tôm Sú Việt Nam",
-    "price": 90000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 56,
-    "name": "Cá Hồi Scotland",
-    "price": 320000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 57,
-    "name": "Nghêu Úc",
-    "price": 180000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 58,
-    "name": "Sò Điệp",
-    "price": 220000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 59,
-    "name": "Cá Trích Lomonxo",
-    "price": 150000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 60,
-    "name": "Cá Mòi Na Uy",
-    "price": 280000,
-    "image": "https://placehold.co/600x400",
-    "category": "Hải sản"
-  },
-  {
-    "id": 61,
-    "name": "Rong Nho Vn",
-    "price": 50000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 62,
-    "name": "Rong Biển Khô",
-    "price": 40000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 63,
-    "name": "Phủ Táo Biển",
+    "name": "Cà Phê Đen UCC",
+    "slug": "ca-phe-den-ucc",
+    "image": "https://mastererp.mylifecompany.com/Resources/Images/Items/NoImages.jpg",
     "price": 30000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 64,
-    "name": "Rong Nho Xoắn",
-    "price": 45000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 65,
-    "name": "Rong Nho Dẻo",
-    "price": 35000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 66,
-    "name": "Rong Nho Nướng",
-    "price": 55000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 67,
-    "name": "Rong Biển Trộn Gia Vị",
-    "price": 60000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 68,
-    "name": "Rong Nho Hàn Quốc",
-    "price": 70000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 69,
-    "name": "Rong Biển Nhật Bản",
-    "price": 80000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 70,
-    "name": "Rong Nho Viên",
-    "price": 25000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 71,
-    "name": "Rong Biển Sợi",
-    "price": 30000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 72,
-    "name": "Rong Nho Muối",
-    "price": 20000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 73,
-    "name": "Rong Biển Nướng Sẵn",
-    "price": 40000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 74,
-    "name": "Rong Nho Trộn Dấm",
-    "price": 35000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 75,
-    "name": "Rong Biển Hương Tỏi",
-    "price": 30000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 76,
-    "name": "Rong Nho Hương Gừng",
-    "price": 30000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 77,
-    "name": "Rong Biển Hương Chanh",
-    "price": 30000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 78,
-    "name": "Rong Nho Hương Cay",
-    "price": 30000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 79,
-    "name": "Rong Biển Hương Thảo Mộc",
-    "price": 35000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
-  },
-  {
-    "id": 80,
-    "name": "Rong Nho Hỗn Hợp",
-    "price": 40000,
-    "image": "https://placehold.co/600x400",
-    "category": "Rong Nho Vn"
+    "unit": "can",
+    "status": "in-stock",
+    "categorySlug": "coffee"
   }
 ]
