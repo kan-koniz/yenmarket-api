@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "name": "Nho Xanh Hello",
+    "price": 150000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 2,
+    "name": "Dưa Lưới Đài Loan Cao Cấp",
+    "price": 200000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 3,
+    "name": "Táo Envy S28 - S30",
+    "price": 100000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 4,
+    "name": "Quýt Úc Califresh size 48",
+    "price": 80000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 5,
+    "name": "Cam Ai Cập MAFA S40",
+    "price": 60000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 6,
+    "name": "Táo Rockit New Zealand",
+    "price": 120000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 7,
+    "name": "Lê Hàn",
+    "price": 90000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 8,
+    "name": "Quýt Úc APH S36",
+    "price": 70000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 9,
+    "name": "Nho Xanh Sweet Globe Úc",
+    "price": 180000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 10,
+    "name": "Nho Đen Úc",
+    "price": 200000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 11,
+    "name": "Táo Dazzle New Zealand S90",
+    "price": 130000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 12,
+    "name": "Dưa Đế Đặc Mật",
+    "price": 50000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 13,
+    "name": "Cherry Mỹ",
+    "price": 300000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 14,
+    "name": "Xoài Úc",
+    "price": 100000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 15,
+    "name": "Dứa Hawaii",
+    "price": 80000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 16,
+    "name": "Bưởi Navel Mỹ",
+    "price": 120000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 17,
+    "name": "Vải Thái Lan",
+    "price": 250000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 18,
+    "name": "Sầu Riêng Việt Nam",
+    "price": 60000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 19,
+    "name": "Mận Đà Lạt",
+    "price": 70000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 20,
+    "name": "Ổi Tây Ban Nha",
+    "price": 150000,
+    "image": "https://placehold.co/600x400",
+    "category": "Trái cây"
+  },
+  {
+    "id": 21,
+    "name": "[Striploin] Thăn Ngoại Bò Hokubee Úc",
+    "price": 500000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 22,
+    "name": "[Ribeye] Đầu Thăn Ngoại Bò Hokubee Úc",
+    "price": 600000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 23,
+    "name": "[Shank] Bắp Bò Mỹ Cắt Lát",
+    "price": 300000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 24,
+    "name": "[Top Blade] Lõi Nạc Vai Bò Cắt Steak",
+    "price": 400000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 25,
+    "name": "[Short Plate] Ba Chỉ Bò Mỹ Cuộn",
+    "price": 450000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 26,
+    "name": "Diềm Thăn (Ib Serecto Penceta)",
+    "price": 700000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 27,
+    "name": "Xương sườn (IB Spare Ribs)",
+    "price": 350000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 28,
+    "name": "Thịt bụng ba rọi cắt mỡ (IB Defatted Belly)",
+    "price": 550000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 29,
+    "name": "Thịt cốt lếch (IB French Rack)",
+    "price": 800000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 30,
+    "name": "IB Spare Ribs Xương sườn 500gr/khay",
+    "price": 250000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 31,
+    "name": "Ba rọi cuộn (Iberico roll Belly)",
+    "price": 600000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 32,
+    "name": "Sườn Non Bò Úc",
+    "price": 400000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 33,
+    "name": "Nạc Vai Bò Mỹ",
+    "price": 350000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 34,
+    "name": "Thịt Ba Chỉ Heo Tây Ban Nha",
+    "price": 250000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 35,
+    "name": "Cánh Gà Mỹ",
+    "price": 100000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 36,
+    "name": "Đùi Gà Pháp",
+    "price": 150000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 37,
+    "name": "Ba Chỉ Heo Iberico",
+    "price": 700000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 38,
+    "name": "Sườn Heo Mỹ",
+    "price": 200000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 39,
+    "name": "Loin Heo Úc",
+    "price": 300000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 40,
+    "name": "Gà Nguyên Con Brazil",
+    "price": 300000,
+    "image": "https://placehold.co/600x400",
+    "category": "Bò, Heo & Gà"
+  },
+  {
+    "id": 41,
+    "name": "Cá Hồi Nauy Fillet Tươi",
+    "price": 300000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 42,
+    "name": "Tôm Hùm Alaska",
+    "price": 1000000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 43,
+    "name": "Cá Ngừ Vây Vàng",
+    "price": 500000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 44,
+    "name": "Mực UnaGi Nhật Bản",
+    "price": 400000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 45,
+    "name": "Tôm Tiger Úc",
+    "price": 250000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 46,
+    "name": "Cá Hồi Hokkaido",
+    "price": 350000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 47,
+    "name": "Bạch Tuộc Tươi",
+    "price": 200000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 48,
+    "name": "Cá Basa Việt Nam",
+    "price": 100000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 49,
+    "name": "Ghẹ Xanh Việt Nam",
+    "price": 150000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 50,
+    "name": "Cá Mú Nhật Bản",
+    "price": 600000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 51,
+    "name": "Tôm Hùm Đỏ Canada",
+    "price": 800000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 52,
+    "name": "Cá Thu Biển",
+    "price": 120000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 53,
+    "name": "Mực Ống Khô",
+    "price": 80000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 54,
+    "name": "Cá Ngừ Đại Dương",
+    "price": 450000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 55,
+    "name": "Tôm Sú Việt Nam",
+    "price": 90000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 56,
+    "name": "Cá Hồi Scotland",
+    "price": 320000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 57,
+    "name": "Nghêu Úc",
+    "price": 180000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 58,
+    "name": "Sò Điệp",
+    "price": 220000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 59,
+    "name": "Cá Trích Lomonxo",
+    "price": 150000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 60,
+    "name": "Cá Mòi Na Uy",
+    "price": 280000,
+    "image": "https://placehold.co/600x400",
+    "category": "Hải sản"
+  },
+  {
+    "id": 61,
+    "name": "Rong Nho Vn",
+    "price": 50000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 62,
+    "name": "Rong Biển Khô",
+    "price": 40000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 63,
+    "name": "Phủ Táo Biển",
+    "price": 30000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 64,
+    "name": "Rong Nho Xoắn",
+    "price": 45000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 65,
+    "name": "Rong Nho Dẻo",
+    "price": 35000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 66,
+    "name": "Rong Nho Nướng",
+    "price": 55000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 67,
+    "name": "Rong Biển Trộn Gia Vị",
+    "price": 60000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 68,
+    "name": "Rong Nho Hàn Quốc",
+    "price": 70000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 69,
+    "name": "Rong Biển Nhật Bản",
+    "price": 80000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 70,
+    "name": "Rong Nho Viên",
+    "price": 25000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 71,
+    "name": "Rong Biển Sợi",
+    "price": 30000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 72,
+    "name": "Rong Nho Muối",
+    "price": 20000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 73,
+    "name": "Rong Biển Nướng Sẵn",
+    "price": 40000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 74,
+    "name": "Rong Nho Trộn Dấm",
+    "price": 35000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 75,
+    "name": "Rong Biển Hương Tỏi",
+    "price": 30000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 76,
+    "name": "Rong Nho Hương Gừng",
+    "price": 30000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 77,
+    "name": "Rong Biển Hương Chanh",
+    "price": 30000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 78,
+    "name": "Rong Nho Hương Cay",
+    "price": 30000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 79,
+    "name": "Rong Biển Hương Thảo Mộc",
+    "price": 35000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  },
+  {
+    "id": 80,
+    "name": "Rong Nho Hỗn Hợp",
+    "price": 40000,
+    "image": "https://placehold.co/600x400",
+    "category": "Rong Nho Vn"
+  }
+]
