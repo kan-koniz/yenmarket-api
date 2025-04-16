@@ -48,8 +48,8 @@ app.get('/api/products', (req, res) => {
   });
 });
 
-app.get('/api/products/:id', (req, res) => {
-  const product = products.find((item) => item.id === parseInt(req.params.id));
+app.get('/api/products/:slug', (req, res) => {
+  const product = products.find((item) => item.slug === req.params.slug);
 
   if (!product) {
     return res.status(404).json({ message: 'Product not found' });
